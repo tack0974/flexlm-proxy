@@ -1,7 +1,7 @@
-=FlexLM licensing software=
+#FlexLM licensing software
 
 FlexLM is a software developed and maintained by 
-<a href="http://www.macrovision.com">Macrovision</a> that helps developer 
+<a href="http://www.openlm.com">OpenLM</a> that helps developer
 securing their work by providing tools. 
 
 With FlexLM you can obtain "floating" licenses, this means that you licenses
